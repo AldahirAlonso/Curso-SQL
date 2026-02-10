@@ -1,0 +1,1 @@
+SELECT name, init_date AS "Fecha de Inicio en Programacion" FROM users WHERE name = "aldahir";
