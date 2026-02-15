@@ -1,0 +1,3 @@
+SELECT * FROM users HAVING age > 24;
+
+SELECT COUNT(age) FROM users HAVING COUNT(age) > 3;
